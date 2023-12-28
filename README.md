@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @folcer
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
